@@ -18,6 +18,12 @@ export class Satellite {
         } else {
             return false
         }
+    }
+    zebra(index) {
+        if (index % 2 === 0){
+            return true
+        } else {
+            return false
         }
-    
+    }
 }
