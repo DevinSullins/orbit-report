@@ -1,6 +1,6 @@
 .sortable {
     cursor: pointer;
-    color: #dd5;
+    color: rgb(206, 201, 126);
 }
 
 .warning {
@@ -17,7 +17,7 @@ table {
 }
 
 .header-row {
-    background: #04172b;
+    background: #5f8ab8;
     color: #fff
 }
 
